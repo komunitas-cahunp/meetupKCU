@@ -1,0 +1,25 @@
+# Site settings
+title: Meetup KCU
+email: cah@unpkediri.ac.id
+description: Meetup dilaksanakan tiga bulan sekali atau sekurang-kurangnya enam bulan sekali.
+baseurl: "/meetupKCU/" # the subpath of your site, e.g. /blog/
+url: "http://cah.unpkediri.ac.id" # the base hostname & protocol for your site
+
+# User setting
+owner: Donasi dan Sponsor
+email: ritnesaif@gmail.com
+facebook_username: /groups/cahunp
+twitter_username: cahunp
+github_username: cahunp
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone: 085730947129
+copyright: 
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
